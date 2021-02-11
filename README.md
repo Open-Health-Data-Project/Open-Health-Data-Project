@@ -14,6 +14,9 @@ To achieve this, we propose to create an ecosystem consisting of a mobile, a des
 
 <img src="https://github.com/Open-Health-Data-Project/Open-Health-Data-Project/blob/main/images/collected-data.png" width="720">
 
+## Project on mindmap
+
+[Mind Map](https://bubbl.us/NTYxMTAxNy8xMDY5NTQzNC84YjE5MDRjMGI5ZmIzNjVmNDljNjAwMzIzMWU4NWQwYQ==-X)
 
 ## Problems to be solved by the project:
 * Controlling your time (time management)
@@ -65,3 +68,4 @@ To achieve this, we propose to create an ecosystem consisting of a mobile, a des
 ## Contributing to Open Health Data Project
 
 If you want to join to our organization or you have any questions contact us on e-mail: openhdp@gmail.com
+
