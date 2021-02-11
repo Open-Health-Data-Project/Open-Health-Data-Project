@@ -64,4 +64,4 @@ To achieve this, we propose to create an ecosystem consisting of a mobile, a des
 
 ## Contributing to Open Health Data Project
 
-<!-- You can found these informations in our ![CONTRIBUTING file]() -->
+If you want to join to our organization or you have any questions contact us on e-mail: openhdp@gmail.com
